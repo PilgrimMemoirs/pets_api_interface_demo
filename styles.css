@@ -1,0 +1,9 @@
+#pet-profile {
+  background-color: yellow;
+  position: fixed;
+  top: 30%;
+  left: 30%;
+  width: 50%;
+}
+
+#pet-profile, form { display: none;}
